@@ -5,7 +5,7 @@ const Home = () => {
         <div>
             <h1>Página de Home</h1>
 
-            <a href="ReactRouter/#/contact">Contacto</a>
+            <a href="/ReactRouter/#/contact">Contacto</a>
         </div> 
     )
 }
