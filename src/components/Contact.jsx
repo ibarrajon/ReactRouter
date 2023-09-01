@@ -5,7 +5,7 @@ const Contact = () => {
         <div>
             <h1>Página de Contacto</h1>
 
-            <a href="/">Home</a>
+            <a href="/">Regresar a Home</a>
         </div>
     )
 }
